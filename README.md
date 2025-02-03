@@ -18,7 +18,7 @@ Quick Translator is a lightweight and efficient browser extension that provides 
 
 ### 🔹 Clone the Repository  
 ```bash
-git clone https://github.com/your-username/quick-translator.git
+https://github.com/info-Asad/Quick-Translator-extension.git
 ```
 
 ### 🔹 Load the Extension in Your Browser  
@@ -40,7 +40,7 @@ git clone https://github.com/your-username/quick-translator.git
 ✅ **One-click full-page translation**  
 
 ---
-
+<!--
 ## 🤝 Contributing  
 Contributions are welcome! If you'd like to improve Quick Translator:  
 
@@ -55,7 +55,8 @@ git commit -m "Add new feature"
 ```
 4. Push to your branch and create a **Pull Request**.  
 
----
+--- 
+-->
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
