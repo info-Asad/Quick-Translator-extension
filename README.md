@@ -1,55 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quick Translator Extension</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; background-color: #f9f9f9; color: #333;">
+# 🚀 Quick Translator Extension  
+**Instant Text & Page Translations for Seamless Browsing**  
 
-    <h1 style="color: #007bff; text-align: center;">🚀 Quick Translator Extension</h1>
-    <p style="font-size: 18px; text-align: center;"><strong>Instant Text & Page Translations for Seamless Browsing</strong></p>
-    
-    <p>Quick Translator is a lightweight and efficient browser extension that provides <strong>instant translations</strong> of selected text or entire web pages. Perfect for students, travelers, and professionals who need quick language assistance while browsing the web.</p>
+Quick Translator is a lightweight and efficient browser extension that provides **instant translations** of selected text or entire web pages. Perfect for students, travelers, and professionals who need quick language assistance while browsing the web.  
 
-    <h2 style="color: #007bff;">🔹 Features</h2>
-    <ul style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <li>✅ <strong>Instant Translations</strong> – Highlight text and get an immediate translation pop-up.</li>
-        <li>✅ <strong>Multi-Language Support</strong> – Translate between multiple languages effortlessly.</li>
-        <li>✅ <strong>Full-Page Translation</strong> – One-click option to translate entire web pages.</li>
-        <li>✅ <strong>Pronunciation Support</strong> – Hear translations with built-in text-to-speech.</li>
-        <li>✅ <strong>Customizable Shortcuts</strong> – Set your preferred hotkeys for faster access.</li>
-    </ul>
+---
 
-    <h2 style="color: #007bff;">📥 Installation</h2>
-    <ol style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <li>Clone the repository:  
-            <pre style="background: #eee; padding: 10px; border-radius: 5px;"><code>git clone https://github.com/your-username/quick-translator.git</code></pre>
-        </li>
-        <li>Load the extension in your browser:
-            <ul>
-                <li><strong>For Chrome:</strong> Go to <code style="background: #eee; padding: 3px; border-radius: 4px;">chrome://extensions/</code>, enable <strong>Developer Mode</strong>, and load the unpacked folder.</li>
-                <li><strong>For Firefox:</strong> Use <code style="background: #eee; padding: 3px; border-radius: 4px;">about:addons</code> and install from a local file.</li>
-            </ul>
-        </li>
-    </ol>
+## 🔹 Features  
+✅ **Instant Translations** – Highlight text and get an immediate translation pop-up.  
+✅ **Multi-Language Support** – Translate between multiple languages effortlessly.  
+✅ **Full-Page Translation** – One-click option to translate entire web pages.  
+✅ **Pronunciation Support** – Hear translations with built-in text-to-speech.  
+✅ **Customizable Shortcuts** – Set your preferred hotkeys for faster access.  
 
-    <h2 style="color: #007bff;">⚡ Usage</h2>
-    <ul style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <li><strong>Select text</strong> → Right-click → Click "Translate"</li>
-        <li><strong>Click extension icon</strong> → Enter text → Get instant translation</li>
-        <li><strong>One-click full-page translation</strong></li>
-    </ul>
+---
 
-    <h2 style="color: #007bff;">🤝 Contributing</h2>
-    <p style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        Contributions are welcome! Feel free to fork the repository and submit a pull request.
-    </p>
+## 📥 Installation  
 
-    <h2 style="color: #007bff;">📜 License</h2>
-    <p style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        MIT License
-    </p>
+### 🔹 Clone the Repository  
+```bash
+git clone https://github.com/your-username/quick-translator.git
+```
 
-</body>
-</html>
+### 🔹 Load the Extension in Your Browser  
+
+#### For Chrome:  
+1. Open `chrome://extensions/` in your browser.  
+2. Enable **Developer Mode** (top-right corner).  
+3. Click **"Load Unpacked"**, then select the cloned folder.  
+
+#### For Firefox:  
+1. Open `about:addons` in your browser.  
+2. Click **"Install Add-on from File"** and select the extension folder.  
+
+---
+
+## ⚡ Usage  
+✅ **Select text → Right-click → Click "Translate"**  
+✅ **Click extension icon → Enter text → Get an instant translation**  
+✅ **One-click full-page translation**  
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! If you'd like to improve Quick Translator:  
+
+1. Fork the repository.  
+2. Create a new branch:  
+```bash
+git checkout -b feature-branch
+```
+3. Make changes and commit:  
+```bash
+git commit -m "Add new feature"
+```
+4. Push to your branch and create a **Pull Request**.  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+⭐ If you like this project, don’t forget to give it a **star**! 🌟
